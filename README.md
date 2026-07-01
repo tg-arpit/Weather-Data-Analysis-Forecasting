@@ -82,7 +82,7 @@ The dashboard helps users:
 Example:
 
 ```
-/images/dashboard.png
+Weather_Data_Analysis_&_Forecasting.png
 ```
 
 ---
