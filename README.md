@@ -82,7 +82,7 @@ The dashboard helps users:
 Example:
 
 ```
-Weather_Data_Analysis_&_Forecasting.png
+https://github.com/tg-arpit/Weather-Data-Analysis-Forecasting/blob/main/Weather_Data_Analysis_%26_Forecasting.png
 ```
 
 ---
